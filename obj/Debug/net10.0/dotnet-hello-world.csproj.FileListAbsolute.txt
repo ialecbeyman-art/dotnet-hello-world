@@ -1,0 +1,14 @@
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/bin/Debug/net10.0/dotnet-hello-world
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/bin/Debug/net10.0/dotnet-hello-world.deps.json
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/bin/Debug/net10.0/dotnet-hello-world.runtimeconfig.json
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/bin/Debug/net10.0/dotnet-hello-world.dll
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/bin/Debug/net10.0/dotnet-hello-world.pdb
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/obj/Debug/net10.0/dotnet-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/obj/Debug/net10.0/dotnet-hello-world.AssemblyInfoInputs.cache
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/obj/Debug/net10.0/dotnet-hello-world.AssemblyInfo.cs
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/obj/Debug/net10.0/dotnet-hello-world.csproj.CoreCompileInputs.cache
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/obj/Debug/net10.0/dotnet-hello-world.dll
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/obj/Debug/net10.0/refint/dotnet-hello-world.dll
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/obj/Debug/net10.0/dotnet-hello-world.pdb
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/obj/Debug/net10.0/dotnet-hello-world.genruntimeconfig.cache
+/Users/alecbeyman/development/dotnet-hello-world/dotnet-hello-world/obj/Debug/net10.0/ref/dotnet-hello-world.dll
